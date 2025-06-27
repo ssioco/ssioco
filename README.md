@@ -6,8 +6,6 @@
 I'm just a guy with a passion for learning and technology.
 
 ### About me :ninja: 
-- 🌱 I'm currently studying mechanical engineering👷 at the University of Antioquia and software development at Sena.
-
 
 -  I characterize myself for being responsible, organized and very committed to my work, I have the ability to easily adapt to changes and difficulties        that arise along the way, which I complement with my good communication and ability to work as a team, which allows me to find solutions that meet          customer needs.
 
@@ -28,3 +26,8 @@ I'm just a guy with a passion for learning and technology.
 -MongoDB
 -Git
 -GitHub
+
+🚀 Tech Stack y Skills
+Frontend:  · Material · Tailwind · React
+Backend: Ruby On Rail · Django
+Cloud: Azure
